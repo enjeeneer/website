@@ -1,4 +1,4 @@
-baseURL = "https://scottjeen.github.io"
+baseURL = "https://enjeeneer.io"
 title   = "Scott Jeen"
 languageCode = "en-us"
 theme = "hello_friend"
@@ -97,7 +97,6 @@ disableHugoGeneratorInject = true
   footerRight = " "
 
   # Colors for favicons
-  #
   [params.favicon.color]
     mask = "#252627"
     msapplication = "#252627"
