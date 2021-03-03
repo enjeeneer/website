@@ -87,14 +87,14 @@ disableHugoGeneratorInject = true
 
   # Default theme "light" or "dark"
   #
-  defaultTheme = "dark"
+  defaultTheme = "light"
   themeColor = "#252627"
 
   # Custom footer
   # If you want, you can easily override the default footer with your own content.
   #
-  footerLeft = ' '
-  footerRight = " "
+  footerLeft = ''
+  footerRight = ""
 
   # Colors for favicons
   [params.favicon.color]
@@ -122,7 +122,7 @@ disableHugoGeneratorInject = true
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/scottjeen/"
+    url  = "https://twitter.com/enjeeneer/"
 
   [[params.social]]
     name = "email"
@@ -130,7 +130,7 @@ disableHugoGeneratorInject = true
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/scottjeen/"
+    url  = "https://github.com/enjeeneer/"
 
   [[params.social]]
     name = "linkedin"
@@ -138,7 +138,7 @@ disableHugoGeneratorInject = true
 
 [languages]
   [languages.en]
-    subtitle  = "PhD Candidate"
+    subtitle  = "enjeeneer's homepage"
     weight    = 1
     #copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
