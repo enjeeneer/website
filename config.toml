@@ -138,7 +138,7 @@ disableHugoGeneratorInject = true
 
 [languages]
   [languages.en]
-    subtitle  = "enjeeneer's homepage"
+    subtitle  = "Trying to limit climate change with computers"
     weight    = 1
     #copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
@@ -156,4 +156,4 @@ disableHugoGeneratorInject = true
     url        = "posts/"
   [[menu.main]]
     name       = "Projects"
-    url        = "https://github.com/scottjeen/"
+    url        = "https://github.com/enjeeneer/"
