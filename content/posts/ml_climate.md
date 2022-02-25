@@ -1,5 +1,6 @@
 ---
-title: "The Role of Probabilistic Machine Learning in Climate Change Mitigation"
+title: "Can probabilistic machine learning help limit climate change?"
+loc: ""
 date: 2021-01-05T16:33:12Z
 draft: true
 toc: false
@@ -21,4 +22,4 @@ Our inefficient use of energy is linked closely with uncertainty. We overuse our
 
 To make such predictions we use [probabilistic machine learning](https://www.nature.com/articles/nature14541). And with our predictions, we can then think about ways of acting optimally in these futures using [Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf). For example, using a probabilistic forecast of this afternoon's cloud cover, we could predict when the solar panels on our roof are likely to produce energy and delay the use of air conditioners until then. Using predictions for control in such a way, we can reduce emissions at near-zero cost,  in a way that other mitigation strategies struggle to do.
 
-My work is about making the best use of our predictive abilities to use resources more efficiently to mitigate climate change.
+My work is about making the best use of our predictive abilities to use resources more efficiently and reduce emissions.

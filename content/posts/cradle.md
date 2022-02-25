@@ -1,5 +1,6 @@
 ---
 title: "Book Review: Cradle-to-Cradle Remaking the Way We Make Things"
+loc: ""
 date: 2018-11-20T16:54:55Z
 draft: true
 toc: false

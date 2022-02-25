@@ -1,5 +1,6 @@
 ---
 title: "Plastic Politics"
+loc: ""
 date: 2018-10-19T16:56:04Z
 draft: true
 toc: false

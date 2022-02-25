@@ -1,5 +1,6 @@
 ---
 title: "Change"
+loc: ""
 date: 2018-10-12T16:55:47Z
 draft: true
 toc: false

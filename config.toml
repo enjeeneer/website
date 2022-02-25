@@ -10,7 +10,7 @@ paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 #copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-# googleAnalytics = ""
+googleAnalytics = "UA-192648932-1"
 # disqusShortname = ""
 
 archetypeDir = "archetypes"
@@ -44,10 +44,13 @@ disableHugoGeneratorInject = true
   tag      = "tags"
   category = "categories"
   series   = "series"
+  location = "locations"
+  author = "authors"
+
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
+  dateform        = "January 2, 2006"
+  dateformShort   = "January 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
@@ -141,7 +144,7 @@ disableHugoGeneratorInject = true
     subtitle  = "Limiting climate change with computers"
     keywords = "Scott Jeen"
     weight    = 1
-    lastModDisplay = "Site last compiled:" 
+    lastModDisplay = "Site last compiled:"
     #copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
@@ -151,7 +154,11 @@ disableHugoGeneratorInject = true
     url        = "about/"
   [[menu.main]]
     name       = "CV"
-    url        = "cv/cv.pdf"
+    url        = "cv/cv_coffee.pdf"
+  [[menu.main]]
+      identifier = "talks"
+      name       = "Talks"
+      url        = "talks/"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
